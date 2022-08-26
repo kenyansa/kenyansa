@@ -1,3 +1,4 @@
+<img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 # Hi there 👋, I am Justine Kenyansa
 ## An enthusiastic full stack developer from Nairobi, Kenya.
 
@@ -8,7 +9,6 @@
 - ⚡ Fun fact: I love listening, sight-reading, and training choral music!
 - 📫 How to reach me: kenyansajustine@gmail.com
 
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/JustinKenyansa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
