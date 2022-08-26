@@ -52,4 +52,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenyansa&theme=radical)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kenyansa&theme=onedark)](https://github.com/kenyansa/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kenyansa&theme=radical)](https://github.com/kenyansa/github-profile-trophy)
