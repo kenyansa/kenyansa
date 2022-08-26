@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning advanced UI design, TypeScript, and Next JS.
 - 👯 I’m a prolific article writer on Medium
 - 💬 Ask me about Ruby, Ruby on Rails, and React
-- 📫 How to reach me: kenyansajustine@gmail.com
 - ⚡ Fun fact: I love listening, sight-reading, and training choral music!
+- 📫 How to reach me: kenyansajustine@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
