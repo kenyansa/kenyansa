@@ -29,8 +29,8 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?resize=300%2C300&ssl=1" alt="JS" width="40" height="40"/> </a> 
- <a href="https://webpack.js.org/" target="_blank"> <img src="https://repository-images.githubusercontent.com/404070783/8fa47bf6-e406-4bdd-aa3e-449249ec2e55" alt="webpack" width="40" height="40"/> </a>
-  <a href="https://redux.js.org/" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="ruby" width="40" height="40"/> </a> <br>
+ <a href="https://webpack.js.org/" target="_blank"> <img src="https://repository-images.githubusercontent.com/404070783/8fa47bf6-e406-4bdd-aa3e-449249ec2e55" alt="webpack" width="40" height="40"/> </a> <br>
+  <a href="https://redux.js.org/" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="ruby" width="40" height="40"/> </a>
 <a href="https://api.jquery.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" alt="jQuery" width="40" height="40"/> </a> 
   <a href="https://nextjs.org/docs" target="_blank"> <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="next-js" width="40" height="40"/> </a> 
   <a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="node-js" width="40" height="40"/> </a>
