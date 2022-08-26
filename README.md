@@ -47,4 +47,4 @@
 
 ![Kenyansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenyansa&theme=radical&show_icons=true)
 ![Kenyansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenyansa&theme=tokyonight&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenyansa)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenyansa&theme=radical)](https://git.io/streak-stats)
