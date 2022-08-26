@@ -2,6 +2,7 @@
 
 # Hi there 👋, I am Justine Kenyansa
 ## An enthusiastic full stack developer from Nairobi, Kenya.
+![](https://komarev.com/ghpvc/?username=kenyansa&color=brightgreen)
 
 - 🔭 I’m currently working on my personal modern website
 - 🌱 I’m currently learning advanced UI design, TypeScript, and Next JS.
