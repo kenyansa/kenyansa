@@ -1,5 +1,3 @@
-[![MasterHead](https://github.com/account)](https://github.com/kenyansa)
-
 <img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
 # Hi there 👋, I am Justine Kenyansa
@@ -47,7 +45,6 @@
   <a href="https://docs.advancedrestclient.com/api-school/restful-apis-getting-started" target="_blank"> <img src="https://www.gitbook.com/cdn-cgi/image/width=40,height=40,fit=contain,dpr=1.25,format=auto/https%3A%2F%2F1002660039-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-LgJa7u7Cw8HjSR0oUlx%252Favatar-1613416874109.png%3Fgeneration%3D1613416874567282%26alt%3Dmedia" alt="ARC" width="40" height="40"/> </a>
 </p>
 
-##Most Used Languages
-
 ![Kenyansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenyansa&theme=radical&show_icons=true)
 ![Kenyansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenyansa&theme=tokyonight&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenyansa)](https://git.io/streak-stats)
