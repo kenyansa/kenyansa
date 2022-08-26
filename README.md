@@ -7,4 +7,8 @@
 - 💬 Ask me about Ruby, Ruby on Rails, and React
 - 📫 How to reach me: kenyansajustine@gmail.com
 - ⚡ Fun fact: I love listening, sight-reading, and training choral music!
-![Kenyansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenyansa&theme=dark&show_icons=true)
+
+
+
+![Kenyansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenyansa&theme=radical&show_icons=true)
+![Kenyansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenyansa&theme=tokyonight&show_icons=true)
