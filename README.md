@@ -30,7 +30,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png" alt="photoshop" width="40" height="40"/> </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" alt="JS" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?resize=300%2C300&ssl=1" alt="JS" width="40" height="40"/> </a> 
 <a href="https://api.jquery.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" alt="jQuery" width="40" height="40"/> </a> 
   <a href="https://nextjs.org/docs" target="_blank"> <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="next-js" width="40" height="40"/> </a> 
 <a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="node-js" width="40" height="40"/> </a>
