@@ -17,8 +17,6 @@
 <a href="https://medium.com/@justinekenyansa" target="blank"><img align="center" src="https://miro.medium.com/max/800/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" alt="" height="30" width="40" /></a>
 </p>
 
-[![kenyansa's github stats](https://github-readme-stats.vercel.app/api?username=kenyansa)](https://github.com/kenyansa/github-readme-stats)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a> 
@@ -47,6 +45,6 @@
   <a href="https://docs.advancedrestclient.com/api-school/restful-apis-getting-started" target="_blank"> <img src="https://www.gitbook.com/cdn-cgi/image/width=40,height=40,fit=contain,dpr=1.25,format=auto/https%3A%2F%2F1002660039-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-LgJa7u7Cw8HjSR0oUlx%252Favatar-1613416874109.png%3Fgeneration%3D1613416874567282%26alt%3Dmedia" alt="ARC" width="40" height="40"/> </a>
 </p>
 
-![Kenyansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenyansa&theme=radical&show_icons=true)
+[![kenyansa's github stats](https://github-readme-stats.vercel.app/api?username=kenyansa&theme=radical&show_icons=true)](https://github.com/kenyansa/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenyansa&theme=radical)](https://git.io/streak-stats)
