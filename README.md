@@ -17,7 +17,7 @@
 <a href="https://medium.com/@justinekenyansa" target="blank"><img align="center" src="https://miro.medium.com/max/800/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" alt="" height="30" width="40" /></a>
 </p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyansa)](https://github.com/kenyansa/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyansa&theme=radical&show_icons=true)](https://github.com/kenyansa/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
