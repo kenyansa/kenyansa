@@ -21,7 +21,7 @@
 <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://mui.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUvJS2cd8BETQPQjqweeq3h09Ve4t7P9VS7MB8u0reGfzCAIpwxpEdqeJjZqzNsJ0n9NA&usqp=CAU" alt="Material UI" width="40" height="40"/> </a>
-  <a href="https://chakra-ui.com/" target="_blank"> <img src="https://bestofjs.org/logos/chakra-ui.svg" alt="Chakra-UI" width="40" height="40"/> </a>
+  <a href="https://chakra-ui.com/" target="_blank"> <img src="https://opencollective.com/chakra-ui-pro" alt="Chakra-UI" width="40" height="40"/> </a>
 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
