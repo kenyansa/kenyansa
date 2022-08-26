@@ -33,13 +33,11 @@
   <a href="https://nextjs.org/docs" target="_blank"> <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="next-js" width="40" height="40"/> </a> 
 <a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="node-js" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRms1LY0mhZz2BXWbcVDqoUbJEPOGL_pRdD2wvfeF-C6KbEtWyBFZwpV5wv_YYc_STN-uc&usqp=CAU" alt="react" width="40" height="40"/> </a>
-  
-  <a href="https://www.ruby-lang.org/en/documentation/" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/12-120179_best-free-ruby-png-ruby-programming-language-logo.png" alt="ruby" width="40" height="40"/> </a> 
-  <a href="https://guides.rubyonrails.org/" target="_blank"> <img src="https://seeklogo.com/images/R/rails-logo-DD0927D290-seeklogo.com.png" alt="rails" width="40" height="40"/> </a> 
-   
+<a href="https://www.ruby-lang.org/en/documentation/" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/12-120179_best-free-ruby-png-ruby-programming-language-logo.png" alt="ruby" width="40" height="40"/> </a> 
+<a href="https://guides.rubyonrails.org/" target="_blank"> <img src="https://seeklogo.com/images/R/ruby-on-rails-logo-95951CC5FB-seeklogo.com.png" alt="rails" width="40" height="40"/> </a> 
   <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="MySQL" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org/docs/" target="_blank"> <img src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" alt="postgreSQL" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/docs/" target="_blank"> <img src="https://seeklogo.com/images/M/mongodb-logo-84AA9310E1-seeklogo.com.png" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank"> <img src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://graphql.org/learn/" target="_blank"> <img src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png" alt="GraphQL" width="40" height="40"/> </a>
   <a href="https://learning.postman.com/docs/publishing-your-api/documenting-your-api/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/> </a> 
   <a href="https://docs.advancedrestclient.com/api-school/restful-apis-getting-started" target="_blank"> <img src="https://www.gitbook.com/cdn-cgi/image/width=40,height=40,fit=contain,dpr=1.25,format=auto/https%3A%2F%2F1002660039-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-LgJa7u7Cw8HjSR0oUlx%252Favatar-1613416874109.png%3Fgeneration%3D1613416874567282%26alt%3Dmedia" alt="ARC" width="40" height="40"/> </a>
