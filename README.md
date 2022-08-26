@@ -17,6 +17,8 @@
 <a href="https://medium.com/@justinekenyansa" target="blank"><img align="center" src="https://miro.medium.com/max/800/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" alt="" height="30" width="40" /></a>
 </p>
 
+[![kenyansa's github stats](https://github-readme-stats.vercel.app/api?username=kenyansa)](https://github.com/kenyansa/github-readme-stats)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a> 
