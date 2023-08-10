@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on my personal modern website
 - 🌱 I’m currently learning advanced UI design, TypeScript, and Next JS.
 - 👯 I’m a prolific article writer on Medium
-- 💬 Ask me about Ruby, Ruby on Rails, and React
-- ⚡ Fun fact: I love listening, sight-reading, and training choral music!
+- 💬 Ask me about Ruby, Ruby on Rails, JS, React, and Haskell
+- ⚡ Fun fact: I love listening, sight-reading, and training Choral music!
 - 📫 How to reach me: kenyansajustine@gmail.com
 
 <h3 align="left">Connect with me:</h3>
