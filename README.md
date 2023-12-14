@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my personal modern website
 - 🌱 I’m currently learning advanced UI design, TypeScript, and Next JS.
 - 👯 I’m a prolific article writer on Medium
-- 💬 Ask me about Ruby, Ruby on Rails, JS, React, and Haskell
+- 💬 Ask me about Ruby, Ruby on Rails, Python, JS, React, Vue, Laravel, and Haskell
 - ⚡ Fun fact: I love listening, sight-reading, and training Choral music!
 - 📫 How to reach me: kenyansajustine@gmail.com
 
@@ -47,6 +47,17 @@
   <a href="https://learning.postman.com/docs/publishing-your-api/documenting-your-api/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/> </a> 
   <a href="https://docs.advancedrestclient.com/api-school/restful-apis-getting-started" target="_blank"> <img src="https://www.gitbook.com/cdn-cgi/image/width=40,height=40,fit=contain,dpr=1.25,format=auto/https%3A%2F%2F1002660039-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-LgJa7u7Cw8HjSR0oUlx%252Favatar-1613416874109.png%3Fgeneration%3D1613416874567282%26alt%3Dmedia" alt="ARC" width="40" height="40"/> </a>
 </p>
+
+ <h3>🗄️ Databases and Cloud Hosting</h3>
+  <p>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+  </p>
 
 [![kenyansa's github stats](https://github-readme-stats.vercel.app/api?username=kenyansa&theme=radical&show_icons=true)](https://github.com/kenyansa/github-readme-stats)
 
