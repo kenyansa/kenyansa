@@ -75,5 +75,6 @@
 [![kenyansa's github stats](https://github-readme-stats.vercel.app/api?username=kenyansa&theme=radical&show_icons=true)](https://github.com/kenyansa/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenyansa&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-stats.com/api/user/streak/current/:kenyansa)]
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kenyansa&theme=radical)](https://github.com/kenyansa/github-profile-trophy)
