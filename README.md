@@ -72,7 +72,7 @@
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
 
-[![kenyansa's github stats](https://github-readme-stats.vercel.app/api?username=kenyansa&theme=radical&show_icons=true)](https://github.com/kenyansa/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kenyansa?cardType=level&theme=nightowl&preferLogin=true)](https://git.io/awesome-stats-card)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kenyansa&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
