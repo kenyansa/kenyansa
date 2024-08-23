@@ -35,8 +35,8 @@
  <a href="https://webpack.js.org/" target="_blank"> <img src="https://repository-images.githubusercontent.com/404070783/8fa47bf6-e406-4bdd-aa3e-449249ec2e55" alt="webpack" width="40" height="40"/> </a> <br>
   <a href="https://redux.js.org/" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="ruby" width="40" height="40"/> </a>
 <a href="https://api.jquery.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" alt="jQuery" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/docs" target="_blank"> <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="next-js" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="node-js" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/docs" target="_blank"> <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="next-js" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node-js" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRms1LY0mhZz2BXWbcVDqoUbJEPOGL_pRdD2wvfeF-C6KbEtWyBFZwpV5wv_YYc_STN-uc&usqp=CAU" alt="react" width="40" height="40"/> </a>
   <a href="https://www.ruby-lang.org/en/documentation/" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/12-120179_best-free-ruby-png-ruby-programming-language-logo.png" alt="ruby" width="40" height="40"/> </a> 
   <a href="https://guides.rubyonrails.org/" target="_blank"> <img src="https://seeklogo.com/images/R/ruby-on-rails-logo-95951CC5FB-seeklogo.com.png" alt="rails" width="40" height="40"/> </a> 
@@ -72,7 +72,7 @@
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kenyansa?cardType=level&theme=nightowl&preferLogin=true)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kenyansa?cardType=level&theme=nightowl&preferLogin=true)](https://git.io/awesome-stats-card)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kenyansa&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
