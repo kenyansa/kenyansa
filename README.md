@@ -4,9 +4,6 @@
 ## An enthusiastic full stack developer from Nairobi, Kenya.
 ![](https://komarev.com/ghpvc/?username=kenyansa&color=brightgreen)
 - 💬 Ask me anything about frontend development
-- ⚡ Fun fact: I love listening, sight-reading, and training Choral music!
-- 📫 How to reach me: kenyansajustine@gmail.com
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyansa&theme=radical&show_icons=true)](https://github.com/kenyansa/github-readme-stats)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kenyansa?cardType=level&theme=nightowl&preferLogin=true)](https://git.io/awesome-stats-card)
