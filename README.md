@@ -4,8 +4,11 @@
 ## An enthusiastic full stack developer from Nairobi, Kenya.
 ![](https://komarev.com/ghpvc/?username=kenyansa&color=brightgreen)
 - 💬 Ask me anything about frontend development
+  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyansa&theme=radical&show_icons=true)](https://github.com/kenyansa/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenyansa&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true)](https://github.com/Kenyansa)
+<p align="center">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Kenyansa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=nightowl" />
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kenyansa&theme=radical)](https://github.com/kenyansa/github-profile-trophy)
