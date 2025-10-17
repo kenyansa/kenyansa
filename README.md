@@ -7,8 +7,6 @@
   
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyansa&theme=radical&show_icons=true)](https://github.com/kenyansa/github-readme-stats)
 
-<p align="center">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Kenyansa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=nightowl" />
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kenyansa?cardType=level&theme=nightowl&preferLogin=true)](https://git.io/awesome-stats-card)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kenyansa&theme=radical)](https://github.com/kenyansa/github-profile-trophy)
